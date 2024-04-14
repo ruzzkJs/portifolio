@@ -1,5 +1,5 @@
 @media (max-width: 900px) {
-    header > a {
+    header {
         font-family: "Rubik", sans-serif;
         font-optical-sizing: auto;
         font-weight: 500;
