@@ -38,5 +38,6 @@ header {
   position: fixed;
   left: 98%;
   top: 37px;
-  height: 128px;
+  height: 128px !important;
+  width: 128px !important;
 }
