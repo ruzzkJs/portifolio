@@ -10,6 +10,11 @@ header > a {
   top: 5px;
 }
 
+header {
+  background-color: #1c1c1c;
+  width: 50px;
+}
+
 .carded > h1 {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
