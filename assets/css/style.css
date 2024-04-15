@@ -9,3 +9,15 @@ header > a {
   left: 10px;
   top: 5px;
 }
+
+.carded > h1 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.1em;
+  gap: 8px;
+  position: absolute;
+  left: 5%;
+  top: 15%;
+}
