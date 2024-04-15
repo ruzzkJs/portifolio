@@ -6,7 +6,7 @@ header > a {
   font-size: 1.5em;
   gap: 8px;
   position: fixed;
-  left: 10px;
+  left: 5%;
   top: 5px;
 }
 
@@ -19,5 +19,5 @@ header > a {
   gap: 8px;
   position: absolute;
   left: 5%;
-  top: 15%;
+  top: 8%;
 }
