@@ -3,9 +3,12 @@ header {
   background-color: #1c1c1c;
   width: auto;
   height: 95px;
+  position: fixed;
+  left: 2%;
+  top: 0px;
 }
 
-header > a {
+ a {
   font-family: "Rubik", sans-serif;
   color: white;
   font-optical-sizing: auto;
