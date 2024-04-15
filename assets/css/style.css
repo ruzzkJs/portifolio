@@ -12,7 +12,7 @@ header > a {
 
 header {
   background-color: #1c1c1c;
-  width: 100%;
+  width: auto;
   height: 95px;
 }
 
