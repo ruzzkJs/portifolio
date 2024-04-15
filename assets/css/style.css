@@ -33,3 +33,9 @@ header {
   left: 5%;
   top: 8%;
 }
+
+.material-symbols-outlined {
+  position: fixed;
+  left: 90%;
+  top: 25px;
+}
