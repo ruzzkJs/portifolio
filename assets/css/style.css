@@ -37,5 +37,7 @@ header {
 .material-symbols-outlined {
   position: fixed;
   left: 98%;
-  top: 40px;
+  top: 37px;
+  height: 64px;
+  width: 64px;
 }
