@@ -31,7 +31,7 @@ header {
   gap: 8px;
   position: absolute;
   left: 5%;
-  top: 8%;
+  top: 15%;
 }
 
 .material-symbols-outlined {
@@ -44,4 +44,7 @@ header {
 
 .carded > p {
     color: black;
+    position: absolute;
+    left: 5%;
+    top: 15%;
 }
