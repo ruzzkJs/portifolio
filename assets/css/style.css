@@ -41,3 +41,7 @@ header {
   height: 128px !important;
   width: 128px !important;
 }
+
+.carded > p {
+    color: black;
+}
