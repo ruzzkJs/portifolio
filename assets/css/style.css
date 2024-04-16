@@ -45,7 +45,7 @@ header {
 .carded > p {
     color: black;
     position: absolute;
-    left: 15%;
+    left: 5%;
     top: 20%;
     font-family: "Rubik", sans-serif;
     font-optical-sizing: auto;
