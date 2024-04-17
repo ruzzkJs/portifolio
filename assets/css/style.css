@@ -52,3 +52,8 @@ header {
     font-weight: 500;
     font-style: normal;
 }
+
+.iframe-doug {
+  position: absolute;
+  top: 50%;
+}
