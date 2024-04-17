@@ -54,6 +54,6 @@ header {
 }
 
 .iframe-doug {
-  position: absolute;
+  position: relative;
   top: 35%;
 }
