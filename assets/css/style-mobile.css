@@ -38,7 +38,7 @@
       height: 10vh;
       background-color: rgba(204, 204, 204, 0.503);
       border-radius: 5px;
-      display: inline-block;
+      display: block;
       position: relative;
       left: 5%;
       top: 120px;
