@@ -53,7 +53,7 @@ header {
     font-style: normal;
 }
 
-.carded h1 p {
+.carded, h1, p {
   width: 35%;
   height: 100px;
   background-color: rgba(0, 0, 0);
