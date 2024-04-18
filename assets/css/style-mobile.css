@@ -46,7 +46,7 @@
         position: relative;
         left: 5%;
         top: 120px;
-        padding: 10px; /* Adicione algum padding para dar espaço ao conteúdo */
+        padding: 10px 10px 10px 10px; /* Adicione algum padding para dar espaço ao conteúdo */
       }
 
       .img-card {
