@@ -38,7 +38,8 @@
       height: 10vh;
       background-color: rgba(204, 204, 204, 0.503);
       border-radius: 5px;
-      display: block;
+      display: flex;
+      flex-wrap: wrap;
       position: relative;
       left: 5%;
       top: 120px;
