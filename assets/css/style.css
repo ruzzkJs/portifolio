@@ -56,7 +56,7 @@ header {
 .carded {
   width: 35%;
   height: 100px;
-  background-color: rgb(204, 204, 204);
+  background-color: rgba(204, 204, 204, 0.103);
   border-radius: 5px;
   position: relative;
   left: 5%;
