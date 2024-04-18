@@ -5,7 +5,7 @@ function igstalk(nomedeuser) {
   }
   
   window.addEventListener("DOMContentLoaded", async () => { // Use async keyword
-    const cardedTwo = document.querySelector('.carded-two'); // Fix selector
+    const cardedTwo = document.querySelector('.two'); // Fix selector
   
     if (!cardedTwo) {
       console.error("Element with class 'carded-two' not found.");
