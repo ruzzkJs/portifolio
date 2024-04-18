@@ -48,4 +48,9 @@
         top: 120px;
         padding: 10px; /* Adicione algum padding para dar espaço ao conteúdo */
       }
+
+      .img-card {
+        width: 256px;
+        height: 256px;
+      }
 }
