@@ -56,7 +56,7 @@ header {
 .carded {
   width: 35%;
   height: 100px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(150, 110, 110);
   border-radius: 5px;
   display: flex;
   flex-wrap: wrap;
