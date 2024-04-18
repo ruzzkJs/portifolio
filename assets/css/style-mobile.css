@@ -20,29 +20,32 @@
         left: 34%;
         top: 35px;
       }
-
-    .carded > h1 {
+      .carded > h1 {
         font-family: "Rubik", sans-serif;
         font-optical-sizing: auto;
         font-weight: 500;
         font-style: normal;
-        font-size: 1.1em;
+        font-size: 1.4em;
         gap: 8px;
+      }
+      
+      .carded  p {
+          color: black;
+          font-family: "Rubik", sans-serif;
+          font-optical-sizing: auto;
+          font-weight: 500;
+          font-style: normal;
+      }
+      
+      .carded {
+        width: 90vw;
+        background-color: rgba(223, 223, 223, 0.445);
+        border-radius: 5px;
+        display: flex;
+        flex-wrap: wrap;
         position: relative;
-        left: 25%;
-        top: 30px;
-    }
-
-    .carded h1 p {
-      width: 95vw;
-      height: 10vh;
-      background-color: black;
-      border-radius: 5px;
-      border: solid 1px blue;
-      display: flex;
-      flex-wrap: wrap;
-      position: relative;
-      left: 5%;
-      top: 120px;
-    }
+        left: 5%;
+        top: 120px;
+        padding: 10px; /* Adicione algum padding para dar espaço ao conteúdo */
+      }
 }
