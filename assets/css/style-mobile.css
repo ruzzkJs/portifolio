@@ -28,13 +28,13 @@
         font-style: normal;
         font-size: 1.1em;
         gap: 8px;
-        position: absolute;
+        position: relative;
         left: 25%;
         top: 90px;
     }
 
     .carded {
-      width: 75vw;
+      width: 90vw;
       height: 10vh;
       background-color: rgba(204, 204, 204, 0.503);
       border-radius: 5px;
