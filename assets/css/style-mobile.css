@@ -36,8 +36,9 @@
     .carded h1 p {
       width: 95vw;
       height: 10vh;
-      background-color: rgba(54, 54, 54);
+      background-color: black;
       border-radius: 5px;
+      border: solid 1px blue;
       display: flex;
       flex-wrap: wrap;
       position: relative;
