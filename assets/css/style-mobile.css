@@ -34,8 +34,8 @@
     }
 
     .carded {
-      width: 35%;
-      height: 100px;
+      width: 75vw;
+      height: 10vh;
       background-color: rgba(204, 204, 204, 0.503);
       border-radius: 5px;
       display: inline-block;
