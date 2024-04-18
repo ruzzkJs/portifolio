@@ -42,7 +42,7 @@ header {
   width: 128px !important;
 }
 
-.carded > p {
+.carded  p {
     color: black;
     position: relative;
     left: 5%;
