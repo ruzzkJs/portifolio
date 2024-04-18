@@ -33,5 +33,14 @@
         top: 90px;
     }
 
-    
+    .carded {
+      width: 35%;
+      height: 100px;
+      background-color: rgba(204, 204, 204, 0.103);
+      border-radius: 5px;
+      display: inline-block;
+      position: relative;
+      left: 5%;
+      top: 120px;
+    }
 }
