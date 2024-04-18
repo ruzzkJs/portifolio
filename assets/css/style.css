@@ -53,7 +53,9 @@ header {
     font-style: normal;
 }
 
-.iframe-doug {
-  position: relative;
-  top: 300px;
+.carded {
+  width: 35%;
+  height: 100px;
+  background-color: rgb(204, 204, 204);
+  border-radius: 5px;
 }
