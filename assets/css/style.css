@@ -58,7 +58,7 @@ header {
   height: 100px;
   background-color: rgba(204, 204, 204, 0.103);
   border-radius: 5px;
-  display: contents;
+  display: inline-block;
   position: relative;
   left: 5%;
   top: 120px;
