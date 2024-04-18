@@ -21,7 +21,6 @@ header {
 }
 
 
-
 .carded > h1 {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
@@ -29,24 +28,10 @@ header {
   font-style: normal;
   font-size: 1.4em;
   gap: 8px;
-  position: relative;
-  left: 5%;
-  top: 15%;
-}
-
-.material-symbols-outlined {
-  position: fixed;
-  left: 98%;
-  top: 37px;
-  height: 128px !important;
-  width: 128px !important;
 }
 
 .carded  p {
     color: black;
-    position: relative;
-    left: 5%;
-    top: 20%;
     font-family: "Rubik", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -55,7 +40,6 @@ header {
 
 .carded {
   width: 35%;
-  height: 100px;
   background-color: rgb(150, 110, 110);
   border-radius: 5px;
   display: flex;
@@ -63,4 +47,5 @@ header {
   position: relative;
   left: 5%;
   top: 120px;
+  padding: 10px; /* Adicione algum padding para dar espaço ao conteúdo */
 }
