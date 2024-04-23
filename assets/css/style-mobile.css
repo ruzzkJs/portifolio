@@ -45,7 +45,7 @@
         display: flex;
         flex-wrap: wrap;
         position: relative;
-        left: 5%;
+        left: 0%;
         top: 120px;
         padding: 10px 10px 10px 10px; /* Adicione algum padding para dar espaço ao conteúdo */
       }
