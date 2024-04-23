@@ -53,6 +53,9 @@ header {
 
 #Capa_1 {
   animation: pulse 3s infinite;
+  position: fixed;
+  left: 50%;
+  top: 25px;
 }
 
 /* Animações  */
