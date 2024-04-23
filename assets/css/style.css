@@ -52,7 +52,7 @@ header {
 }
 
 #Capa_1 {
-  animation: pulse 5s infinite;
+  animation: pulse 3s infinite;
 }
 
 /* Animações  */
@@ -61,7 +61,7 @@ header {
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.3);
   }
   100% {
     transform: scale(1);
