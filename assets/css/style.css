@@ -50,3 +50,20 @@ header {
   top: 120px;
   padding: 10px; /* Adicione algum padding para dar espaço ao conteúdo */
 }
+
+#Capa_1 {
+  animation: pulse 5s infinite;
+}
+
+/* Animações  */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
